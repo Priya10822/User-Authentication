@@ -21,6 +21,7 @@ This project provides Authentication services to the user by providing Signup/Re
 
 ## End Points
 **POST** - http://localhost:8000/signup
+
 **POST** - http://localhost:8000/login
 
 ## Parameters
